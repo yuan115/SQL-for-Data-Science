@@ -4,6 +4,7 @@
 
 - **Instructor:** Sadie St. Lawrence
 - **Offered by:** University of California, Davis
+- **Student:** Guan-Yuan Wang
 - **What you will learn:** 
   - Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results.
   - Use SQL commands to filter, sort, and summarize data.
