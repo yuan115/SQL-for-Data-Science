@@ -31,4 +31,4 @@ This course has improved my SQL skills and let me further my knowledge of Databa
 
 However, some of the lecture videos felt disconnected from the coursework, honestly. The lecturer just read out verbatim, showing too few examples and too few coding tests. Moreover, the assignments were too few so I supposed I should have to take another course so as to get massive progress.
 
-Overall, it still helped me achieve my primary goal, be a data scientist.
+Overall, it still helped me achieve my primary goal, be a data scientist. keep it going.
