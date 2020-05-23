@@ -20,3 +20,15 @@
   - Filtering, Sorting, and Calculating Data with SQL
   - Subqueries and Joins in SQL
   - Modifying and Analyzing Data with SQL
+
+------
+
+
+
+## My Learning Experience
+
+This course has improved my SQL skills and let me further my knowledge of Database Management System. Also, there are some coding assignments helping cultivate my hands-on SQL coding skills, especially for data science.
+
+However, some of the lecture videos felt disconnected from the coursework, honestly. The lecturer just read out verbatim, showing too few examples and too few coding tests. Moreover, the assignments were too few so I supposed I should have to take another course so as to get massive progress.
+
+Overall, it still helped me achieve my primary goal, be a data scientist.
